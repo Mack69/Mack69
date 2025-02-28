@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayukh Ghosh</h1>
 <h3 align="center">A passionate Web Developer and a Software Enthusiast .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mack69&label=Profile%20views&color=blueviolet6&style=flat" alt="Mack69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mack69&label=Profile%20views&color=blueviolet&style=flat" alt="Mack69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mack69" alt="rushes02" /></a> </p>
 
